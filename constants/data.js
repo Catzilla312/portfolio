@@ -1,11 +1,11 @@
 const userData = {
-  githubUsername: "manuarora700",
-  name: "Manu Arora",
+  githubUsername: "catzilla312",
+  name: "Eldiiar Omuraliev",
   designation: "Full-Stack Developer",
   avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  email: "catzilla312@gmail.com",
+  phone: "+996 554 30 39 **",
+  address: "Bishkek, Kyrgyzstan",
   projects: [
     {
       title: "Tailwind Master Kit",
